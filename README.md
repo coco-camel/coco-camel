@@ -48,7 +48,7 @@
 ## JavaSpring Project
 
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@coco_camel/posts" target="_blank">
+    <a href="https://github.com/Kim-camel/kakao_together_clone" target="_blank">
       <img src="https://img.shields.io/badge/github-ffffff?style=flat-square&logo=github&logoColor=black"> 
 <br />
 
